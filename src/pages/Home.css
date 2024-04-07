@@ -1,0 +1,8 @@
+.home-page header {
+    background-image: url('./../utils/img/blue.jpg');
+}
+
+header {
+    background-size: cover;
+    background-position: center;
+}
