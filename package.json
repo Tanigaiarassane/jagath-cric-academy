@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 { "homepage": "https://tanigaiarassane.github.io/jagath-cric-academy/",
 =======
 {
 >>>>>>> c62689a (Initialize project using Create React App)
+=======
+{ "homepage": "http://tanigaiarassane.github.io/jagath-cric-academy/",
+>>>>>>> 286c456 (changes)
   "name": "react-restaurant",
   "version": "0.1.0",
   "private": true,
@@ -35,10 +39,15 @@
   "scripts": {
     "start": "react-scripts start",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
 =======
 >>>>>>> c62689a (Initialize project using Create React App)
+=======
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+>>>>>>> 286c456 (changes)
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -61,10 +70,16 @@
       "last 1 safari version"
     ]
 <<<<<<< HEAD
+<<<<<<< HEAD
   },
   "devDependencies": {
     "gh-pages": "^6.1.1"
 =======
 >>>>>>> c62689a (Initialize project using Create React App)
+=======
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+>>>>>>> 286c456 (changes)
   }
 }

@@ -92,7 +92,6 @@ function Home(){
                 </div>
             </header>
         </div>
-
         </>
     )
 }
