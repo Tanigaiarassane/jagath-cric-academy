@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/jagath-cric-academy/static/css/main.c3fad99c.css",
+    "main.css": "/jagath-cric-academy/static/css/main.f8c701a0.css",
     "main.js": "/jagath-cric-academy/static/js/main.67089e6d.js",
     "static/media/1.jpeg": "/jagath-cric-academy/static/media/1.13d253ad28591f9519b0.jpeg",
     "static/media/1.jpg": "/jagath-cric-academy/static/media/1.13d253ad28591f9519b0.jpg",
@@ -12,11 +12,11 @@
     "static/media/7.jpg": "/jagath-cric-academy/static/media/7.13d253ad28591f9519b0.jpg",
     "static/media/8.jpg": "/jagath-cric-academy/static/media/8.13d253ad28591f9519b0.jpg",
     "index.html": "/jagath-cric-academy/index.html",
-    "main.c3fad99c.css.map": "/jagath-cric-academy/static/css/main.c3fad99c.css.map",
+    "main.f8c701a0.css.map": "/jagath-cric-academy/static/css/main.f8c701a0.css.map",
     "main.67089e6d.js.map": "/jagath-cric-academy/static/js/main.67089e6d.js.map"
   },
   "entrypoints": [
-    "static/css/main.c3fad99c.css",
+    "static/css/main.f8c701a0.css",
     "static/js/main.67089e6d.js"
   ]
 }
